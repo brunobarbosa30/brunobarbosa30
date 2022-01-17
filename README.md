@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Bruno Barbosa!
 
 - 🔭 Futuro desenvolvedor back-end.
-- 🌱 Estudando Python / Django, HTML, CSS, JavaScript
+- 🌱 Estudando Python e o Framework Django.
 - 📫 Contate-me no email: brunobarbosa2908@gmail.com
 - 😄 Pronouns: Viva a vida intensamente!
 
